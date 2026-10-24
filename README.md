@@ -77,7 +77,7 @@ If you want to run this project locally to test or contribute, follow these step
 - **Cloudinary Account** (for media storage)
 
 ### 1. Clone the Repository
-git clone [https://github.com/ashish-shrivastva/ViTube.git](https://github.com/ashish-shrivastva/ViTube.git)
+git clone [https://github.com/ashish-shrivastva/ViTube.git](https://github.com/AmrutaPatil5/ViTube)
 
 ```bash
 cd ViTube
@@ -139,7 +139,7 @@ npm run dev
 Open http://localhost:5173 to view it in the browser.
 
 ## 👤 Author
-### Ashish Kumar Shrivastva
+### Amruta Patil
 A passionate Full Stack Developer focused on building scalable web applications.
 
 ## 🎓 Acknowledgements
