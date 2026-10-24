@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Styles */
+body {
+  background-color: #0F0F0F; /* Deep Dark Background */
+  color: white;
+  min-height: 100vh;
+  /* Removes the default 'centering' logic that breaks full pages */
+  margin: 0; 
+}
